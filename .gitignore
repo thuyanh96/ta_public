@@ -1,0 +1,10 @@
+/.settings
+/.vscode
+/core
+*.data
+*.mon
+*.out
+/Debug
+/Release
+/.cproject
+/.project
